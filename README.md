@@ -1,1 +1,1 @@
-## https://github.com/nordq.github.io/
+## https://nordq.github.io/
