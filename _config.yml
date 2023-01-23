@@ -6,7 +6,7 @@ description: Bem vindo ao meu site pessoal
 avatarTitle: Nordq
 # 头像里面的描述
 avatarDesc: Dev C# PWN
-#url: "http://leopardpan.cn"
+url: "https://github.com/Nordq"
 
 # 博客是否自动生成目录，false为不生成
 enableToc: true
