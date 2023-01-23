@@ -1,11 +1,11 @@
 # Basic
 title: Nordq
-subtitle: Desenvolvedor independente
+subtitle: Dev
 description: Bem vindo ao meu site pessoal
 # 头像里面的标题
-avatarTitle: Nordq
+avatarTitle: Blog
 # 头像里面的描述
-avatarDesc: Dev C# PWN
+avatarDesc: Conhecer
 url: "https://github.com/Nordq"
 
 # 博客是否自动生成目录，false为不生成
